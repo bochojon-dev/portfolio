@@ -1,0 +1,23 @@
+.social_medias {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  opacity: 0;
+  transition: 0.2s linear;
+  flex-direction: column;
+  padding-bottom: 24px;
+  position: absolute;
+  right: 60px;
+  bottom: 40px;
+  font-size: 24px;
+}
+.show {
+  opacity: 1;
+  padding-bottom: 60px;
+}
+.contact_contents button {
+  position: absolute;
+  right: 60px;
+  bottom: 40px;
+}
