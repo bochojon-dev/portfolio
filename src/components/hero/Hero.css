@@ -7,11 +7,19 @@
   align-items: center;
   gap: 60px;
   justify-content: center;
+  text-align: center;
 }
 .hero_title {
   display: flex;
   flex-direction: column;
-  gap: 148;
+  gap: 36px;
+}
+.hero_title h1 {
+  font-size: 48px;
+  opacity: 0.8;
+}
+.hero_title i {
+  font-size: 18px;
 }
 li {
   font-size: 48px;

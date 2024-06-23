@@ -24,7 +24,9 @@ const Contact = () => {
               <FaGithub />
             </a>
           </div>
-          <button onClick={() => setShow(!show)}>social medias</button>
+          <button className="call-me" onClick={() => setShow(!show)}>
+            Contacts
+          </button>
         </div>
       </div>
     </div>

@@ -19,3 +19,9 @@ ul {
   align-items: center;
   gap: 40px;
 }
+.div {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  gap: 40px;
+}

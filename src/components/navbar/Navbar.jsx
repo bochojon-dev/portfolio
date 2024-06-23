@@ -159,7 +159,7 @@ const Navbar = () => {
           <ul>
             <li>Home</li>
             <li>About</li>
-            <li>Contact</li>
+            <li>Projects</li>
           </ul>
         </div>
       </div>
